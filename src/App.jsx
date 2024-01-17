@@ -7,7 +7,7 @@ import Newsletter from "./components/Newsletter";
 function App(){
   return (
     <>
-<h1>hi</h1>
+
     <Header/>
     <Banner/>
     <Masters/>
